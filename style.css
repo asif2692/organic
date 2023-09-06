@@ -1,0 +1,18 @@
+*{
+    font-family: 'Merriweather', serif;
+}
+.navbar a {
+    color: black;
+}
+.bg{
+    background-color: rgba(255, 255, 255, 0.164);
+    text-align: center; 
+}
+.toptow{
+    margin-top: -50px;
+    margin-bottom: 100px;
+}
+p{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+}
+
