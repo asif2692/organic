@@ -24,3 +24,9 @@ background-size:30%;
 .colr{color: #8BC34A;}
 .btn{background-color: #8BC34A;
 border: none;}
+.bg-image{
+    background-image: url('./imag/resize-vag.jpg');
+    height:22rem;
+  background-repeat: no-repeat;
+  background-size: cover;
+    }
